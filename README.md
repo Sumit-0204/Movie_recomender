@@ -6,17 +6,17 @@ A content-based movie recommendation system built using Python, Pandas, and Scik
 
 ---
 
-## 📌 Features
+##  Features
 
-- 🔍 **Search-based Recommendations** – Enter any movie title and get top similar movies.
-- 🧠 **Content-Based Filtering** – Recommendations are based on genres, keywords, cast, crew, and overviews.
-- 🛠️ **Vectorization Techniques** – Utilizes `CountVectorizer` to convert text data into meaningful vectors.
-- 🎯 **Cosine Similarity** – Computes the similarity between movie vectors for accurate results.
-- 🗃️ **Data Preprocessing** – Cleans and combines multiple data columns to enhance model accuracy.
+-  **Search-based Recommendations** – Enter any movie title and get top similar movies.
+-  **Content-Based Filtering** – Recommendations are based on genres, keywords, cast, crew, and overviews.
+-  **Vectorization Techniques** – Utilizes `CountVectorizer` to convert text data into meaningful vectors.
+-  **Cosine Similarity** – Computes the similarity between movie vectors for accurate results.
+-  **Data Preprocessing** – Cleans and combines multiple data columns to enhance model accuracy.
 
 ---
 
-## 🗂️ Dataset Used
+## Dataset Used
 
 - **Movies Metadata** from [TMDb](https://www.themoviedb.org/)
 - Merged columns include:
@@ -28,9 +28,9 @@ A content-based movie recommendation system built using Python, Pandas, and Scik
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
-- Python 🐍  
+- Python  
 - Pandas  
 - NumPy  
 - Scikit-learn  
@@ -38,7 +38,7 @@ A content-based movie recommendation system built using Python, Pandas, and Scik
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 
 1. **Data Preprocessing**  
    Combine genres, cast, crew, keywords, and overview into a single feature.
@@ -54,7 +54,7 @@ A content-based movie recommendation system built using Python, Pandas, and Scik
 
 ---
 
-## 📷 Sample Output
+## Sample Output
 
 ```python
 recommend("Avatar")
