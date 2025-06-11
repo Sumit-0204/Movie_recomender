@@ -2,7 +2,7 @@
 
 A content-based movie recommendation system built using Python, Pandas, and Scikit-learn. This project allows users to receive personalized movie suggestions based on the similarity of movie features.
 
-![Movie Banner](https://user-images.githubusercontent.com/your-banner-link/movie-banner.png)
+![Movie Banner](banner.png)
 
 ---
 
